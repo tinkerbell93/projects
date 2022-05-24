@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "gahyun-portfolio",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "프로젝트 포트폴리오",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Gahyun Kim <dev.tinkerbell@gmail.com>",
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
